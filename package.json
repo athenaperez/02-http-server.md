@@ -1,0 +1,19 @@
+{
+  "name": "02-http-server.md",
+  "version": "1.0.0",
+  "description": "node-milestones, db-driven-applications, exercise 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athenaperez/02-http-server.md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athenaperez/02-http-server.md/issues"
+  },
+  "homepage": "https://github.com/athenaperez/02-http-server.md#readme"
+}
